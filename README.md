@@ -7,5 +7,3 @@ to convert from .qrc file to .py file use :
   
 to convert from .py file to .exe file use :
   pyinstaller --onefile --noconsole Program.py
-
-#Python #Arduino #PyQt #SoftwareSerial
